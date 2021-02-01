@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/22706674/106503646-f91ae380-64d6-11eb-830a-210917b6d62f.png)
 
-## Sürekli FOnksiyon ile Eğitim
+## Sürekli Fonksiyon ile Eğitim
 
 ### İki Sınıfa ait 2-Boyutlu veri uzayında etiketli örnekler ile sürekli (contunious) aktivasyon fonksiyonu ile (tanh fonk.) danışmanlı öğrenme (supervised learning) işlevi gerçeklenmiştir. Bu işlevi gerçeklerken aşağıdaki fonksiyonlar ile işlemler gerçeklenmiştir.
 
